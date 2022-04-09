@@ -1,16 +1,13 @@
-# reddit_posts
+# Flutter Reeddit Api Example
 
-A new Flutter project.
+Mobile app showing recent posts on Reddit flutterDev channel 
 
-## Getting Started
+# Gettin Started
 
-This project is a starting point for a Flutter application.
+Clone or fork project to get started
 
-A few resources to get you started if this is your first Flutter project:
+# Scrrenshots
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+![Screenshot_1649510827](https://user-images.githubusercontent.com/98164787/162576200-e86b9687-c323-4b6b-b50f-c0bad49eb8ea.png)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
