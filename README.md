@@ -1,6 +1,8 @@
 # Flutter Reeddit Api Example
 
-Mobile app showing recent posts on Reddit flutterDev channel 
+Mobile app showing recent posts on Reddit flutterDev channel
+
+Used Http Library and REST architectural style and allows for interaction with RESTful web services.
 
 # Gettin Started
 
